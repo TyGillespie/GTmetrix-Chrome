@@ -2,11 +2,11 @@
  * popup.js
  * A part of GTmetrix-Chrome.
  * 
- * Copyright (C) 2020, Ty Gillespie <tygillespie6@gmail.com>.
+ * Copyright (C) 2020-2021, Ty Gillespie <tygillespie6@gmail.com>.
  * All rights reserved.
  * 
  * License: MIT.
-*/
+ */
 
 'use strict';
 
